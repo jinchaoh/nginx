@@ -1,0 +1,11 @@
+Sun Oct 19 22:15:19 2014 - *** Starting uWSGI 1.9.13-debian (32bit) on [Sun Oct 19 22:15:19 2014] ***
+Sun Oct 19 22:15:19 2014 - compiled with version: 4.8.1 on 16 July 2013 01:00:41
+Sun Oct 19 22:15:19 2014 - os: Linux-3.11.0-23-generic #40-Ubuntu SMP Wed Jun 4 21:05:24 UTC 2014
+Sun Oct 19 22:15:19 2014 - nodename: hankin-ThinkPad-SL410
+Sun Oct 19 22:15:19 2014 - machine: i686
+Sun Oct 19 22:15:19 2014 - clock source: unix
+Sun Oct 19 22:15:19 2014 - pcre jit disabled
+Sun Oct 19 22:15:19 2014 - detected number of CPU cores: 2
+Sun Oct 19 22:15:19 2014 - current working directory: /home/hankin/MySite
+Sun Oct 19 22:15:19 2014 - writing pidfile to /var/run/nginx.pid
+Sun Oct 19 22:15:19 2014 - open("/var/run/nginx.pid"): Permission denied [core/utils.c line 3339]
